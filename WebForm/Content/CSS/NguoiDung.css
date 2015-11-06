@@ -1,0 +1,38 @@
+﻿.DangKyDangNhap{
+    float:right;
+
+    padding:5px 8px 8px 8px;
+}
+.DangKyDangNhap a:hover{
+    text-decoration:none;
+    color:#163f3a;
+    font-size:large;
+}
+.Logo{
+     text-decoration:none;
+     float:left;
+     color: #163f3a;
+      font-weight:bold;
+      padding-left:15px;
+}
+div#ToanTrang {
+    position: relative;
+}
+.texttimkiem{
+     height:0px;
+     width: 248px;
+ }
+#TextTimKiem{
+    float:left;
+    padding-left:31px;
+}
+#ButtonTimkiem{
+    margin-right: -182%;
+    margin-top: -18%;
+}
+#ButtonTimkiem button{
+  height:50px;
+}
+#divmenutrai{
+    float:left;
+}

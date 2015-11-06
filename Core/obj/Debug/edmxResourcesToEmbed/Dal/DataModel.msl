@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuanTriThietBiModelStoreContainer" CdmEntityContainer="QuanTriThietBiEntities">
+    <EntitySetMapping Name="ChiTietHopDongNhapHangs">
+      <EntityTypeMapping TypeName="QuanTriThietBiModel.ChiTietHopDongNhapHang">
+        <MappingFragment StoreEntitySet="ChiTietHopDongNhapHang">
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="MaNhomTB" ColumnName="MaNhomTB" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ChiTietPhieuGiaos">
+      <EntityTypeMapping TypeName="QuanTriThietBiModel.ChiTietPhieuGiao">
+        <MappingFragment StoreEntitySet="ChiTietPhieuGiao">
+          <ScalarProperty Name="MaPG" ColumnName="MaPG" />
+          <ScalarProperty Name="MaNhomTB" ColumnName="MaNhomTB" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ChiTietPhieuXuLyThietBis">
+      <EntityTypeMapping TypeName="QuanTriThietBiModel.ChiTietPhieuXuLyThietBi">
+        <MappingFragment StoreEntitySet="ChiTietPhieuXuLyThietBi">
+          <ScalarProperty Name="MaPXLTB" ColumnName="MaPXLTB" />
+          <ScalarProperty Name="MaTB" ColumnName="MaTB" />
+          <ScalarProperty Name="TienThuDuoc" ColumnName="TienThuDuoc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DonVis">
+      <EntityTypeMapping TypeName="QuanTriThietBiModel.DonVi">
+        <MappingFragment StoreEntitySet="DonVi">
+          <ScalarProperty Name="MaDV" ColumnName="MaDV" />
+          <ScalarProperty Name="TenDonVi" ColumnName="TenDonVi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HopDongNhapHangs">
+      <EntityTypeMapping TypeName="QuanTriThietBiModel.HopDongNhapHang">
+        <MappingFragment StoreEntitySet="HopDongNhapHang">
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="NoiDung" ColumnName="NoiDung" />
+          <ScalarProperty Name="NgayLap" ColumnName="NgayLap" />
+          <ScalarProperty Name="MaNCC" ColumnName="MaNCC" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LoaiThietBis">
+      <EntityTypeMapping TypeName="QuanTriThietBiModel.LoaiThietBi">
+        <MappingFragment StoreEntitySet="LoaiThietBi">
+          <ScalarProperty Name="MaLoai" ColumnName="MaLoai" />
+          <ScalarProperty Name="TenLoai" ColumnName="TenLoai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NhaCungCaps">
+      <EntityTypeMapping TypeName="QuanTriThietBiModel.NhaCungCap">
+        <MappingFragment StoreEntitySet="NhaCungCap">
+          <ScalarProperty Name="MaNCC" ColumnName="MaNCC" />
+          <ScalarProperty Name="TenNCC" ColumnName="TenNCC" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="DienThoai" ColumnName="DienThoai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NhomThietBis">
+      <EntityTypeMapping TypeName="QuanTriThietBiModel.NhomThietBi">
+        <MappingFragment StoreEntitySet="NhomThietBi">
+          <ScalarProperty Name="HinhAnh" ColumnName="HinhAnh" />
+          <ScalarProperty Name="MaNhomTB" ColumnName="MaNhomTB" />
+          <ScalarProperty Name="TenNhomTB" ColumnName="TenNhomTB" />
+          <ScalarProperty Name="MaLoai" ColumnName="MaLoai" />
+          <ScalarProperty Name="NguyenGia" ColumnName="NguyenGia" />
+          <ScalarProperty Name="ThongSoKyThuat" ColumnName="ThongSoKyThuat" />
+          <ScalarProperty Name="NamSX" ColumnName="NamSX" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PhieuChuyenThietBis">
+      <EntityTypeMapping TypeName="QuanTriThietBiModel.PhieuChuyenThietBi">
+        <MappingFragment StoreEntitySet="PhieuChuyenThietBi">
+          <ScalarProperty Name="MaPCTB" ColumnName="MaPCTB" />
+          <ScalarProperty Name="NgayLap" ColumnName="NgayLap" />
+          <ScalarProperty Name="MaDV_Giao" ColumnName="MaDV_Giao" />
+          <ScalarProperty Name="MaDV_Nhan" ColumnName="MaDV_Nhan" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PhieuGiaos">
+      <EntityTypeMapping TypeName="QuanTriThietBiModel.PhieuGiao">
+        <MappingFragment StoreEntitySet="PhieuGiao">
+          <ScalarProperty Name="MaPG" ColumnName="MaPG" />
+          <ScalarProperty Name="NgayLap" ColumnName="NgayLap" />
+          <ScalarProperty Name="MaDV" ColumnName="MaDV" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PhieuXuLyThietBis">
+      <EntityTypeMapping TypeName="QuanTriThietBiModel.PhieuXuLyThietBi">
+        <MappingFragment StoreEntitySet="PhieuXuLyThietBi">
+          <ScalarProperty Name="MaPXLTB" ColumnName="MaPXLTB" />
+          <ScalarProperty Name="NgayLap" ColumnName="NgayLap" />
+          <ScalarProperty Name="QuyetDinh" ColumnName="QuyetDinh" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ThietBis">
+      <EntityTypeMapping TypeName="QuanTriThietBiModel.ThietBi">
+        <MappingFragment StoreEntitySet="ThietBi">
+          <ScalarProperty Name="MaTB" ColumnName="MaTB" />
+          <ScalarProperty Name="NamSD" ColumnName="NamSD" />
+          <ScalarProperty Name="TiLeKhauHao" ColumnName="TiLeKhauHao" />
+          <ScalarProperty Name="GiaTriSuDung" ColumnName="GiaTriSuDung" />
+          <ScalarProperty Name="TinhTrang" ColumnName="TinhTrang" />
+          <ScalarProperty Name="MaNhomTB" ColumnName="MaNhomTB" />
+          <ScalarProperty Name="MaDV" ColumnName="MaDV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="ChiTietPhieuChuyenThietBi" TypeName="QuanTriThietBiModel.ChiTietPhieuChuyenThietBi" StoreEntitySet="ChiTietPhieuChuyenThietBi">
+      <EndProperty Name="PhieuChuyenThietBi">
+        <ScalarProperty Name="MaPCTB" ColumnName="MaPCTB" />
+      </EndProperty>
+      <EndProperty Name="ThietBi">
+        <ScalarProperty Name="MaTB" ColumnName="MaTB" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="QuanTriThietBiModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

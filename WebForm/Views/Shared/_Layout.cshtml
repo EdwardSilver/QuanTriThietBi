@@ -1,0 +1,100 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link href="~/Content/CSS/fonts.css" rel="stylesheet" />
+    <link href="~/Content/CSS/screen.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href="~/font-awesome-4.4.0/css/font-awesome.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script>
+        $(function () {
+            var Accordion = function (el, multiple) {
+                this.el = el || {};
+                this.multiple = multiple || false;
+
+                // Variables privadas
+                var links = this.el.find('.link');
+                // Evento
+                links.on('click', { el: this.el, multiple: this.multiple }, this.dropdown)
+            }
+
+            Accordion.prototype.dropdown = function (e) {
+                var $el = e.data.el;
+                $this = $(this),
+                $next = $this.next();
+
+                $next.slideToggle();
+                $this.parent().toggleClass('open');
+
+                if (!e.data.multiple) {
+                    $el.find('.submenu').not($next).slideUp().parent().removeClass('open');
+                };
+            }
+
+            var accordion = new Accordion($('#accordion'), false);
+        });
+    </script>
+
+</head>
+<body>
+    <div id="ToanTrang">
+        <section class="blank">
+            <nav class="navigation">
+                <ul>
+                    <li>
+                        <a href="@Url.Action("Index","Home")" class="focus navigation-home">
+                            <i class="icon-large icon-home"></i>
+                        </a>
+                    </li>
+                    <li class="righty">
+                        <a href="" class="navigation-user">
+                            <i class="icon-large icon-user"></i> About
+                        </a>
+                    </li>
+                </ul>
+                <br class="clear">
+            </nav>
+        </section>
+
+        <ul id="accordion" class="accordion">
+            <li>
+                <div class="link"><i class="fa fa-desktop fa-3x"></i>Thiết Bị<i class="fa fa-chevron-down"></i></div>
+                <ul class="submenu">
+                    <li>@Html.ActionLink("Danh Sách Thiết Bị","listThietBi","Home")</li>
+                    <li>@Html.ActionLink("Thêm Thiết Bị", "CreateThietBi", "Home")</li>
+                </ul>
+            </li>
+            <li>
+                <div class="link"><i class="fa fa-university fa-3x"></i>Danh Sách Đơn Vị<i class="fa fa-chevron-down"></i></div>
+                <ul class="submenu">
+                    <li><a href="#">Khoa Công Nghệ Thông Tin</a></li>
+                    <li><a href="#">Khoa Công Tác Học Sinh Sinh Viên</a></li>
+                    <li><a href="#">Khoa Giáo Dục Mầm Non</a></li>
+                </ul>
+            </li>
+            <li>
+                <div class="link"><i class="fa fa-pencil-square-o fa-3x"></i>Phiếu Giao<i class="fa fa-chevron-down"></i></div>
+                <ul class="submenu">
+                    <li><a href="#">Danh Sách Phiếu Giao</a></li>
+                    <li><a href="#">Thêm Thiếu Giao</a></li>
+                </ul>
+            </li> 
+            <li>
+                <div class="link"><i class="fa fa-pencil-square-o fa-3x"></i>Hợp Đồng Nhận Hàng<i class="fa fa-chevron-down"></i></div>
+                <ul class="submenu">
+                    <li><a href="#">Danh Sách Hợp Đồng</a></li>
+                    <li><a href="#">Thêm Hợp Đồng</a></li>
+                </ul>
+            </li> 
+        </ul>
+        
+        <div id="main-content">
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>

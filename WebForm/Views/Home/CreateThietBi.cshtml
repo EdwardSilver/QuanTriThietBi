@@ -1,0 +1,51 @@
+﻿@model Core.Biz.BizThietBi
+
+@{
+    ViewBag.Title = "CreateThietBi";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+    @ViewBag.ThongBao
+        <div class="form-group">
+            @Html.LabelFor(model => model.NamSD, new { @class = "control-label col-md-2" })
+
+            <input type="text" class="long" name="NamSD">
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TiLeKhauHao, new { @class = "control-label col-md-2" })
+            <input type="text" class="long" name="TiLeKhauHao">
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.GiaTriSuDung, new { @class = "control-label col-md-2" })
+            <input type="text" class="long" name="GiaTriSuDung">
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TinhTrang, new { @class = "control-label col-md-2" })
+            <input type="text" class="long" name="TinhTrang">
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.MaNhomTB, new { @class = "control-label col-md-2" })
+            @Html.DropDownList("MaNhom")
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.MaDV, new { @class = "control-label col-md-2" })
+            @Html.DropDownList("MaDonVi")
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="button"/>
+            </div>
+        </div>
+
+}

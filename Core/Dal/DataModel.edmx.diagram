@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="82b5989af9c14297aa54fe3cb2d708ac" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanTriThietBiModel.ChiTietHopDongNhapHang" Width="1.5" PointX="12.25" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanTriThietBiModel.ChiTietPhieuGiao" Width="1.5" PointX="5.25" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanTriThietBiModel.ChiTietPhieuXuLyThietBi" Width="1.5" PointX="7.5" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanTriThietBiModel.DonVi" Width="1.5" PointX="0.75" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanTriThietBiModel.HopDongNhapHang" Width="1.5" PointX="10" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanTriThietBiModel.LoaiThietBi" Width="1.5" PointX="0.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanTriThietBiModel.NhaCungCap" Width="1.5" PointX="7.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanTriThietBiModel.NhomThietBi" Width="1.5" PointX="3" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanTriThietBiModel.PhieuChuyenThietBi" Width="1.5" PointX="3" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanTriThietBiModel.PhieuGiao" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanTriThietBiModel.PhieuXuLyThietBi" Width="1.5" PointX="5.25" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanTriThietBiModel.ThietBi" Width="1.5" PointX="5.25" PointY="1.75" IsExpanded="true" />
+        <AssociationConnector Association="QuanTriThietBiModel.FK_ChiTietHopDongNhapHang_HopDongNhapHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanTriThietBiModel.FK_ChiTietHopDongNhapHang_NhomThietBi" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanTriThietBiModel.FK_ChiTietPhieuGiaoNhan_NhomThietBi" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanTriThietBiModel.FK_ChiTietPhieuGiaoNhan_PhieuGiaoNhan" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanTriThietBiModel.FK_ChiTietPhieuXuLyThietBi_PhieuXuLyThietBi" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanTriThietBiModel.FK_ChiTietPhieuXuLyThietBi_ThietBi" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanTriThietBiModel.FK_PhieuChuyenThietBi_DonVi" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanTriThietBiModel.FK_PhieuChuyenThietBi_DonVi1" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanTriThietBiModel.FK_PhieuGiaoNhan_DonVi" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanTriThietBiModel.FK_ThietBi_DonVi" ManuallyRouted="true" >
+          <ConnectorPoint PointX="2.25" PointY="4.3410953776041667" />
+          <ConnectorPoint PointX="4.791666666666667" PointY="4.3410953776041659" />
+          <ConnectorPoint PointX="4.958333333333333" PointY="4.3410953776041667" />
+          <ConnectorPoint PointX="5.25" PointY="4.3410953776041667" />
+        </AssociationConnector>
+        <AssociationConnector Association="QuanTriThietBiModel.FK_HopDongNhapHang_NhaCungCap" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanTriThietBiModel.FK_NhomThietBi_LoaiThietBi" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanTriThietBiModel.FK_ThietBi_LoaiThietBi" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanTriThietBiModel.ChiTietPhieuChuyenThietBi" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="QuanTriThietBiModel.sysdiagram" Width="1.5" PointX="7.375" PointY="9.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Core.Biz.BizThietBi>
+
+@{
+    ViewBag.Title = "Danh Sách Thiết Bị";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MaTB)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NamSD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TiLeKhauHao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GiaTriSuDung)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TinhTrang)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MaNhomTB)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MaDV)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaTB)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NamSD)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TiLeKhauHao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GiaTriSuDung)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TinhTrang)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaNhomTB)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaDV)
+        </td>
+        <td>
+            @Html.ActionLink("Sửa", "Edit", new { id=item.MaTB }) |
+            @Html.ActionLink("Xóa", "Delete", new { id = item.MaTB })
+        </td>
+    </tr>
+}
+
+</table>

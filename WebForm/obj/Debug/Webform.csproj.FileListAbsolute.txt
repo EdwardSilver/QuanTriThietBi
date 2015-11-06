@@ -1,0 +1,228 @@
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Webform.dll.config
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Webform.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Webform.pdb
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Antlr3.Runtime.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\EntityFramework.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\EntityFramework.SqlServer.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Facebook.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Google.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Twitter.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Web.Infrastructure.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Newtonsoft.Json.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Owin.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\System.Web.Helpers.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\System.Web.Mvc.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\System.Web.Optimization.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\System.Web.Razor.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\System.Web.WebPages.Deployment.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\System.Web.WebPages.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\System.Web.WebPages.Razor.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\WebGrease.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\System.Web.Helpers.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\System.Web.Mvc.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\System.Web.Optimization.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\System.Web.Razor.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\System.Web.WebPages.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\System.Web.WebPages.Deployment.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\System.Web.WebPages.Razor.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Newtonsoft.Json.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Antlr3.Runtime.pdb
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\EntityFramework.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\EntityFramework.SqlServer.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Facebook.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Google.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Twitter.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\obj\Debug\Webform.csprojResolveAssemblyReference.cache
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\obj\Debug\Webform.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\obj\Debug\Webform.pdb
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Core.dll
+E:\CNNT\MO HINH PHAN LOP\QuanTriThietBi\Webform\bin\Core.pdb
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Webform.dll.config
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Webform.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Webform.pdb
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Antlr3.Runtime.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Core.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\EntityFramework.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\EntityFramework.SqlServer.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Newtonsoft.Json.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Owin.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\System.Web.Helpers.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\System.Web.Mvc.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\System.Web.Optimization.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\System.Web.Razor.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\System.Web.WebPages.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\System.Web.WebPages.Razor.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\WebGrease.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Core.pdb
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\System.Web.Helpers.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\System.Web.Mvc.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\System.Web.Optimization.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\System.Web.Razor.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\System.Web.WebPages.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\System.Web.WebPages.Razor.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Newtonsoft.Json.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Antlr3.Runtime.pdb
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\EntityFramework.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\EntityFramework.SqlServer.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\obj\Debug\Webform.csprojResolveAssemblyReference.cache
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\obj\Debug\Webform.dll
+C:\Users\HUU PHUOC\Documents\GitHub\QuanTriThietBi\Webform\obj\Debug\Webform.pdb
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\obj\Debug\Webform.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\obj\Debug\Webform.pdb
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Webform.dll.config
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Webform.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Webform.pdb
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Core.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\EntityFramework.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Owin.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\WebGrease.dll
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Core.pdb
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\EntityFramework.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Desktop\Study\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Webform.dll.config
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Webform.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Webform.pdb
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Core.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\EntityFramework.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Owin.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\WebGrease.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Core.pdb
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\EntityFramework.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\obj\Debug\Webform.dll
+C:\Users\USER\Desktop\Study\ASP.NET\QuanTriThietBi\WebForm\obj\Debug\Webform.pdb
